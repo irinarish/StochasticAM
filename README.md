@@ -6,7 +6,9 @@ Source code for the paper
 
     title={Beyond Backprop: Online Alternating Minimization with Auxiliary Variables},
     
-    author={Choromanska, Anna and Cowen, Benjamin and Kumaravel, Sadhana and Luss, Ronny and Rigotti, Mattia and Rish, Irina and Kingsbury, Brian and DiAchille, Paolo and Gurev, Viatcheslav and Tejwani,Ravi and Bouneffouf, Djallel},
+    author={Choromanska, Anna and Cowen, Benjamin and Kumaravel, Sadhana and Luss, 
+    Ronny and Rigotti, Mattia and Rish, Irina and Kingsbury, Brian and DiAchille, 
+    Paolo and Gurev, Viatcheslav and Tejwani,Ravi and Bouneffouf, Djallel},
     
     booktitle={ICML},
     

@@ -1,5 +1,5 @@
 """
-@author Mattia Rigotti (augmented by Ben Cowen)
+@author Mattia Rigotti (augmented by Benjamin Cowen)
 @date 15 Jan 2019
 """
 from __future__ import print_function, division

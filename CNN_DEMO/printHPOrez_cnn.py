@@ -1,5 +1,7 @@
 """
 Loads saved .pt's and prints best hyperparameters.
+@author Benjamin Cowen
+@date 19 January 2019
 """
 from utils import ddict
 import numpy as np

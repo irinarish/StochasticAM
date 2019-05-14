@@ -1,3 +1,9 @@
+"""
+dataloaders
+
+@author Benjamin Cowen and Mattia Rigotti
+@date 20 December 2018
+"""
 import torch
 from torchvision import datasets, transforms
 from torch.utils.data.sampler import SubsetRandomSampler

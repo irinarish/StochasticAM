@@ -1,4 +1,5 @@
-"""@author Benjamin Cowen and Mattia Rigotti
+"""
+@author Benjamin Cowen and Mattia Rigotti
 @date 23 Jan 2019
 """
 from __future__ import print_function, division

@@ -1,3 +1,8 @@
+# Step 0: Get going
+To get going right away, train a LeNet-5 model on MNIST using Alt-Min by executing:
+```
+python train_cnn_14jan.py 
+```
 # Step 1: HYPERPARAMETER TESTING
 Write a hyperparameter grid search in `experiments` sub-folder.
 e.g.:

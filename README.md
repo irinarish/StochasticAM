@@ -1,6 +1,7 @@
-Beyond Backprop: Online Alternating Minimization with Auxiliary Variables
 
-Source code for the paper
+
+# [Beyond Backprop: Online Alternating Minimization with Auxiliary Variables](http://proceedings.mlr.press/v97/choromanska19a/choromanska19a.pdf)
+This repository hosts source code for the CNN experiments published in this ICML paper.
 
 @inproceedings{BeyondBackpropAM,
 
